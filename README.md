@@ -1,14 +1,12 @@
-<div align="center">
-  <img height="200" src="https://github.com/JaredD30/JaredD30/blob/Assets/FrontPage.jpg?raw=true"  />
-</div>
-
-###
-
 <h4 align="center">Hi 👋, I'm Jared Del Carpio, a Software engineering student</h4>
 
 ###
 
-<h5 align="left">My Skill Set</h5>
+<p align="left">✨ Creating bugs since I entered this wonderful world of programming.<br>⚡ In my free time I like to see beautiful nature landscapes.<br>🎯 Goal to make this world a better place.<br>🎲 Fun fact: I am a very meticulous person with what I do.</p>
+
+###
+
+<h5 align="left">My Skill Set:</h5>
 
 ###
 
