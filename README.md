@@ -64,7 +64,7 @@
   <a href="mailto:jareddelcarpiofl@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="delcarpio3007@hotmail.com" target="_blank">
+  <a href="mailto:delcarpio3007@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jared-del-carpio" target="_blank">
