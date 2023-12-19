@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I entered this wonderful world of programming.<br>⚡ In my free time I like to see beautiful nature landscapes.<br>🎯 Goal to make this world a better place.<br>🎲 Fun fact: I am a very meticulous person with what I do.</p>
+<p align="left">✨ Creating bugs since I entered this wonderful world of programming.<br>⚡ In my free time I like to see beautiful nature landscapes.<br>🎯 Goal to make this world a better place.<br>🎲 I am a very meticulous person with what I do.</p>
 
 ###
 
