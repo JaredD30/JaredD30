@@ -1,4 +1,8 @@
-<h4 align="center">Hi 👋, I'm Jared Del Carpio, a Software engineering student</h4>
+<h2 align="center">Hi 👋, I'm Jared Del Carpio, a Software engineering student</h2>
+
+###
+
+<h3 align="left">About me</h3>
 
 ###
 
@@ -6,7 +10,7 @@
 
 ###
 
-<h5 align="left">My Skill Set:</h5>
+<h3 align="left">My Skill Set:</h3>
 
 ###
 
@@ -50,11 +54,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
 </div>
 
 ###
 
-<h5 align="left">Connect with me:</h5>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
